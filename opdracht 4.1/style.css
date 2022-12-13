@@ -1,6 +1,24 @@
+*{
+    overflow: hidden;
+}
 #btn{
     width: 6rem;
     height: 2rem;
     margin: 25%;
     margin-left: 46%;
+}
+#pans{
+    position: absolute;
+margin: -20rem 0 0 46%;
+}
+.sec1{
+    display: flex;
+}
+#btn2{
+    color: white;
+    font-size: 4rem;
+    background: transparent;
+    border: none !important;
+    width: 100vw;
+    height: 100vh;
 }
