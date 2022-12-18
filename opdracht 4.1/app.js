@@ -5,7 +5,9 @@ let btn2 = document.getElementById("btn2")
 let date;
 let time;
 let pans = document.getElementById("pans")
+//zeikerd
 console.log("en meneer er staat niet dat ik er voor hoef te zorgen dat als je op het rode klikt dat ik dan te vroeg ben")
+
 btn2.style.display = 'none';
 btn.addEventListener("click", () => {
     btn.style.display = 'none';
@@ -27,3 +29,4 @@ btn.addEventListener("click", () => {
     pans.style.display = "block"
     })
 });
+//mijn hemel, zet je code netjes neer! Dit kan toch niemand normaal lezen (iets met ctrl + s)
